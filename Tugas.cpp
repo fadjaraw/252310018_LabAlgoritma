@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     int a, b;
 
-    // Penjumlahan
+    //Penjumlahan
     cout << "Nomor 1 - Penjumlahan" << endl;
     cout << "Masukkan 2 angka" << endl;
     cout << "A = : ";
@@ -13,7 +13,7 @@ int main() {
     cin >> b;
     cout << a << " + " << b << " = " << a + b << endl << endl;
 
-    // Pengurangan
+    //Pengurangan
     cout << "Nomor 2 - Pengurangan" << endl;
     cout << "Masukkan 2 angka" << endl;
     cout << "A = : ";
@@ -22,7 +22,7 @@ int main() {
     cin >> b;
     cout << a << " - " << b << " = " << a - b << endl << endl;
 
-    // Perkalian
+    //Perkalian
     cout << "Nomor 2 - Perkalian" << endl;
     cout << "Masukkan 2 angka" << endl;
     cout << "A = : ";
@@ -33,4 +33,5 @@ int main() {
     
 
 return 0;
+
 }
